@@ -1,0 +1,1 @@
+# pdf2text-doctr-tesseract-indonesian
